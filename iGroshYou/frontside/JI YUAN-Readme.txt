@@ -1,0 +1,1 @@
+The nav bar needs PHP support to display!

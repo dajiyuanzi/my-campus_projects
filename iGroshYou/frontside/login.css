@@ -1,0 +1,17 @@
+.form_style{
+	padding-left: 90px;
+	background:	white; 
+	padding-bottom:20px; 
+	padding-top:10px; 
+	opacity:0.7;
+}
+
+.bg1{
+	background:url(pic/pic1.jpg); 
+	background-repeat:no-repeat; 
+	background-size:100% 100%; 
+}
+
+.bg2{
+	margin-top: 20px;
+}

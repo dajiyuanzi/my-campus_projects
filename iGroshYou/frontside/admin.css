@@ -1,0 +1,23 @@
+.form_style{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top:10px; 
+	height: 400px;
+}
+
+.bg1{
+	background:url(pic/pic8.jpg); 
+	background-repeat:no-repeat; 
+	background-size:100% 100%; 
+}
+
+.bg2{
+	background:	white; 
+	opacity:0.7;
+	margin-top: 20px;
+	height: 500px;
+}
+
+.inputbg{
+	height: 400px;
+}
