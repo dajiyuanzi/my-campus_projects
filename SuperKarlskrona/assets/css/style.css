@@ -1,0 +1,63 @@
+.navbg{
+  background:	white;
+  opacity: 1;
+}
+
+.topicBox{
+  height: 100px;
+  padding: 10px;
+  margin: 0;
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+}
+
+.adBox{
+  padding: 10px;
+  margin: 0;
+  display: block;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+}
+
+.sidepanel{
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: lightgray;
+  padding-left: 21px;
+}
+
+.title {
+  text-align: center;
+}
+
+.footer1{
+    text-align: center;
+    margin: 20px;
+    color: gray;
+    font-size: smaller;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: lightgray;
+    padding-top: 21px;
+}
+
+.log{
+  text-align: center;
+}
+
+.log1 {
+  display: inline-block;
+}
+
+.innerLog{
+    text-align: left;
+    width: initial;
+    display: table-cell;
+    background: lightgrey;
+    padding: 30px;
+}
+
+
+.innerbut{
+    text-align: left;
+}

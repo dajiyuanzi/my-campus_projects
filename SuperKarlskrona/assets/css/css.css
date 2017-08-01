@@ -1,0 +1,31 @@
+.text {
+  font-family: "����";
+  font-size: 12px
+}
+
+.bg {
+	background-image: url(../images/bg.jpg);
+	background-repeat: repeat-y;
+}
+
+.pic {
+	background-image: url(../images/01.gif);
+	background-repeat: no-repeat
+}
+
+.button {
+	background-image: url(../images/button.gif);
+	background-repeat: no-repeat
+}
+
+.style1 {font-size: 24px}
+a {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	text-decoration: underline;
+}
+}
